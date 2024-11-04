@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Thé Noir",
+    "description": "Un thé noir riche en saveurs",
+    "price": 3.5,
+    "id": 1730716020263
+  },
+  {
+    "name": "New Tea",
+    "id": 1730716199369
+  },
+  {
+    "name": "Green Tea",
+    "description": "Updated Description",
+    "id": 1730716199387
+  }
+]

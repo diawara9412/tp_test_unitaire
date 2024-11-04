@@ -1,0 +1,18 @@
+{
+  "name": "tp_test_unitaire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest",
+    "launch": "vitest --coverage --coverage.reporter=json-summary --watch=false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitest/coverage-v8": "^2.1.4",
+    "vitest": "^2.1.4"
+  }
+}
